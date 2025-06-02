@@ -1,6 +1,6 @@
 # DSA-Data-Analysis-Documentation
 
-> This repository serves as a comprehensive documentation of my learning journey during the Digital SkillUp Africa (DSA) Data Analysis Scholarship. It reflects my progress and hands-on application of data analysis skills using a variety of tools including Microsoft Excel, SQL, and Power BI.
+> This repository serves as a comprehensive documentation of my learning journey during the Digital SkillUp Africa (DSA) Data Analysis class with the Incubator Hub. It reflects my progress and hands-on application of data analysis skills using a variety of tools including Microsoft Excel, SQL, and Power BI.
 
 Here, I showcase my work through Excel practice files, SQL scripts, visual dashboards, and analysis reports. The goal of this repository is to highlight my continuous learning, practical applications, and the skills I’m developing to become a data analyst.
 
