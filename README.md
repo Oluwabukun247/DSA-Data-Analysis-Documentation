@@ -10,6 +10,8 @@ Here, I showcase my work through Excel practice files, SQL scripts, visual dashb
 
 - Text Functions: RIGHT, MID, LEFT, SEARCH, FIND, PROPER, LOWER, UPPER, CONCATENATE, FLASH FILL, TRIM
 
+- Logical Functions: IF, Nested IF, IF AND, IF OR
+
 - Lookup and Reference: VLOOKUP, INDEX, MATCH
 
 - Date Functions: YEAR, MONTH, DATE, DATEDIF
